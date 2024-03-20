@@ -11,4 +11,6 @@ class SpringTestApplicationTests {
 		println("init test")
 	}
 
+	//test seo
+
 }
