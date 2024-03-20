@@ -11,6 +11,6 @@ class SpringTestApplicationTests {
 		println("init test")
 	}
 
-	//test seo   good
+	//test seo   good ga
 
 }
